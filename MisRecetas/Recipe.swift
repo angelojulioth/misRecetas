@@ -5,6 +5,7 @@
 //  Created by Angelo Valderrama on 4/1/17.
 //  Copyright © 2017 Angelo Valderrama. All rights reserved.
 //
+//  Modelo de datos de la clase Receta
 
 import Foundation
 import UIKit
